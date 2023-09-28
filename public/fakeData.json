@@ -1,0 +1,134 @@
+[      { "id": 1,
+        "image": "https://i.ibb.co/Bj5vXty/Blood-donation-Unni2-1686749204287-188ba164f55-medium.jpg",
+        "title": "Blood Donation",
+        "category": "Health",
+        "category_bg": "#0052FF33",
+        "card_bg": "#0034FF26",
+        "text_color": "#0052FF",
+        "description": " Organ donation is a life-saving and life-transforming medical process where organs are removed from a donor and transplanted into someone who is very ill or dying from organ failure. It can involve the kidneys, lungs, heart, liver, kidneys and pancreas.",
+        "price": 500
+      },
+      {
+        "id": 2,
+        "image": "https://i.ibb.co/xHzfzG6/education.jpg",
+        "title": "Good Education",
+        "category": "Education",
+        "category_bg": "#FF444A33",
+        "card_bg": "#FF444A26",
+        "text_color": "#FF444A",
+        "description": "There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential.",
+        "price": 250
+      },
+      {
+        "id": 3,
+        "image": "https://i.ibb.co/XkHrgNx/Donations.jpg",
+        "title": "Use Clothing Drive",
+        "category": "Clothing",
+        "category_bg": "#79C23F33",
+        "card_bg": "#79C23F26",
+        "text_color": "#79C23F",
+        "description": "Donate your unwanted garments to charity and you can let your clothes be loved all over again. You might not be getting much use out of that jumper or suit, but someone else definitely will – and they could be buying it instead of something brand new, too. Your clothes will begin a new journey and be part of new memories. Far better than being binned and forgotten. So share the love – donate and send your clothes on a new adventure!",
+        "price": 200
+      },
+      {
+        "id": 4,
+        "image": "https://i.ibb.co/0XDdsHf/food.jpg",
+        "title": "Food for all",
+        "category": "Food",
+        "category_bg": "#F8714733",
+        "card_bg": "#F8714726",
+        "text_color": "#F87147",
+        "description": "Donating wholesome food for human consumption diverts food waste from landfills and puts food on the table for families in need. Donations of nonperishable and unspoiled perishable food from homes and businesses help stock the shelves at food banks, soup kitchens, pantries, and shelters.",
+        "price": 100
+      },
+      {
+        "id": 5,
+        "image": "https://i.ibb.co/P5jTPP4/food2.jpg",
+        "title": "Food is Basic Right",
+        "category": "Food",
+        "category_bg": "#F8714733",
+        "card_bg": "#F8714726",
+        "text_color": "#F87147",
+        "description": "Donating wholesome food for human consumption diverts food waste from landfills and puts food on the table for families in need. Donations of nonperishable and unspoiled perishable food from homes and businesses help stock the shelves at food banks, soup kitchens, pantries, and shelters.",
+        "price": 100
+      },
+    
+     {
+        "id": 6,
+        "image": "https://i.ibb.co/q0hyCMD/donation3.webp",
+        "title": "Donate your Cloth",
+        "category": "Clothing",
+        "category_bg": "#79C23F33",
+        "card_bg": "#79C23F26",
+        "text_color": "#79C23F",
+        "description": "Donate your unwanted garments to charity and you can let your clothes be loved all over again. You might not be getting much use out of that jumper or suit, but someone else definitely will – and they could be buying it instead of something brand new, too. Your clothes will begin a new journey and be part of new memories. Far better than being binned and forgotten. So share the love – donate and send your clothes on a new adventure!",
+        "price": 200
+      },
+      {
+        "id": 7,
+        "image": "https://i.ibb.co/2kwn2N9/Importance-of-Donation.jpg",
+        "title": "Empower of Education",
+        "category": "Education",
+        "category_bg": "#FF444A33",
+        "card_bg": "#FF444A26",
+        "text_color": "#FF444A",
+        "description": "There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential.",
+        "price": 250
+      },
+      {
+        "id": 8,
+        "image": "https://i.ibb.co/F57f5z9/kidney-chain-hug.jpg",
+        "title": "Give patient support",
+        "category": "Health",
+        "category_bg": "#0052FF33",
+        "card_bg": "#0034FF26",
+        "text_color": "#0052FF",
+        "description": " Organ donation is a life-saving and life-transforming medical process where organs are removed from a donor and transplanted into someone who is very ill or dying from organ failure. It can involve the kidneys, lungs, heart, liver, kidneys and pancreas.",
+        "price": 500
+      },
+      {
+        "id": 9,
+        "image": "https://i.ibb.co/42mQys8/blood-donation-gettyimages.jpg",
+        "title": "Mentally Support",
+        "category": "Health",
+        "category_bg": "#0052FF33",
+        "card_bg": "#0034FF26",
+        "text_color": "#0052FF",
+        "description": " Organ donation is a life-saving and life-transforming medical process where organs are removed from a donor and transplanted into someone who is very ill or dying from organ failure. It can involve the kidneys, lungs, heart, liver, kidneys and pancreas.",
+        "price": 500
+      },
+      {
+        "id": 10,
+        "image": "https://i.ibb.co/yRR5df1/education3.png",
+        "title": "Good Education",
+        "category": "Education",
+        "category_bg": "#FF444A33",
+        "card_bg": "#FF444A26",
+        "text_color": "#FF444A",
+        "description": "There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential.",
+        "price": 250
+      },
+      {
+        "id": 11,
+        "image": "https://i.ibb.co/VtGzLVZ/donation2.jpg",
+        "title": "Use Clothing Drive",
+        "category": "Clothing",
+        "category_bg": "#79C23F33",
+        "card_bg": "#79C23F26",
+        "text_color": "#79C23F",
+        "description": "Donate your unwanted garments to charity and you can let your clothes be loved all over again. You might not be getting much use out of that jumper or suit, but someone else definitely will – and they could be buying it instead of something brand new, too. Your clothes will begin a new journey and be part of new memories. Far better than being binned and forgotten. So share the love – donate and send your clothes on a new adventure!",
+        "price": 200
+      },
+      {
+        "id": 12,
+        "image": "https://i.ibb.co/gt1N48T/food3.jpg",
+        "title": "Nourishing the Hungry",
+        "category": "Food",
+        "category_bg": "#F8714733",
+        "card_bg": "#F8714726",
+        "text_color": "#F87147",
+        "description": "Donating wholesome food for human consumption diverts food waste from landfills and puts food on the table for families in need. Donations of nonperishable and unspoiled perishable food from homes and businesses help stock the shelves at food banks, soup kitchens, pantries, and shelters.",
+        "price": 100
+      }
+    
+    ]
